@@ -1,3 +1,4 @@
 ejercicio1 creamos nuevo repositorio y nuevo txt
 Marcos Matalobos 29/08/2022
 NUEVO COMENTARIO
+SEGUNDO COMMIT EJERCICIO1
